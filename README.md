@@ -1,7 +1,19 @@
-<h4 align="left">Hi, I'm Albert Mundu</h4>
----
+<h3 align="left">Hi, I'm Albert Mundu</h3>
+<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Computer Vision, Vision-Text domain. I like to work with PyTorch and TensorFlow/Keras.</p>
 
-![](https://komarev.com/ghpvc/?username=albertmundu)
+Interested to collaborate on the projects covering: 
+- Object Detection
+- Image Scene Graph Generation
+- Visual Understanding
+- Image/Video Captioning
+- Vision-Text
+- GANs
+- Diffusion
+
+
+
+
+
 
 <!--
 <p align="left">My interests lies in computer vision and reinforcement learning. I enjoy working on AI/ML problems.</p>
@@ -12,19 +24,23 @@
 - A Deep Learning Solution for Automation of Pavement Condition Index for Smart India Hackathon 2020. [PATH-Pavement-Assessment-Tracking-and-Health](https://github.com/AnugunjNaman/PATH-Pavement-Assessment-Tracking-and-Health-SIH2020)
 - Few Shot Speech Emotion Recognition. [Fixed-MAML](https://arxiv.org/pdf/2101.01356.pdf)
 - Gender based Author Profiling of Tweets. [Multimodal Author Profiling System for Tweets](https://ieeexplore.ieee.org/abstract/document/9482514/)
+
+#### Research Areas
+-  Computer Vision, Vison-Text
+
 -->
+
+
 <!--
-I like to work with Pytorch.
-,
-
-
-
 - 👋 Hi, I’m @albertmundu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
+
+![](https://komarev.com/ghpvc/?username=albertmundu)
+
 <!---
 albertmundu/albertmundu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
