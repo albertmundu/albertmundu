@@ -1,7 +1,7 @@
 <h5 align="left">Hi, I'm Albert Mundu</h5>
 ---
 
-![](https://komarev.com/ghpvc/?username=jwyang)
+![](https://komarev.com/ghpvc/?username=albertmundu)
 
 <!--
 <p align="left">My interests lies in computer vision and reinforcement learning. I enjoy working on AI/ML problems.</p>
