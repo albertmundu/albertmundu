@@ -39,7 +39,7 @@ Interested to collaborate on the projects covering:
 - 📫 How to reach me ...
 -->
 
-![](https://komarev.com/ghpvc/?username=albertmundu)
+![](https://komarev.com/ghpvc/?username=albertmundu&color=green)
 
 <!---
 albertmundu/albertmundu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
