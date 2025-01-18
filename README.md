@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Albert Mundu</h3>
-<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Computer Vision, Vision-Text domain. I like to work with PyTorch and TensorFlow/Keras.</p>
+<p>I am pursuing my PhD from IIIT Allahabad, India. I work on Computer Vision, Natural Language Processing, and Multi-Modal AI. I prefer to design AI models using PyTorch and TensorFlow 2.0+.</p>
 
 :fire: Interested to collaborate on the projects covering: 
 - Object Detection
@@ -9,6 +9,7 @@
 - Vision-Text
 - GANs
 - Diffusion
+- Multi-modal AI
 
 
 
